@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm From Hanoi City <br>School : HUST<br>
+<br>I'm From Hanoi City <br>School : Hanoi University of Science and Technology (HUST)<br>
 
 
 ## 🌐 Socials:
